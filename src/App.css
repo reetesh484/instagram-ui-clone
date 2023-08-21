@@ -1,0 +1,14 @@
+@import url(./components/css/Reset.css);
+@import url(./components/css/Header.css);
+@import url(./components/css/Story.css);
+@import url(./components/css/Feed.css);
+@import url(./components/css/Profile.css);
+@import url(./components/css/Responsivo.css);
+
+.main{
+  position:relative;
+}
+
+.links > *:hover{
+  filter:opacity(50%);
+}
